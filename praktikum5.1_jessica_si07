@@ -1,0 +1,32 @@
+*{
+    margin:0;
+    padding:0;
+    justify-content: border-box;
+}
+.Satu{
+    margin-top: 2em;
+    margin-bottom: 2em;
+    display: flex;
+    justify-content: center;
+    gap: 2em;
+}
+.box1{
+    background-color: black;
+    width:15em;
+    height:50em;
+}
+.box2{
+    background-color: rgb(206, 26, 26);
+    width:15em;
+    height:50em;
+}
+.box3{
+    background-color: rgb(7, 148, 75);
+    width:15em;
+    height:50em;
+}
+.box4{
+    background-color: rgb(191, 33, 88);
+    width:15em;
+    height:50em;
+}
